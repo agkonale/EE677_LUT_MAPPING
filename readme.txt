@@ -8,7 +8,7 @@
 	
 	 Sample Output files
 	-partion_graph.png  --Contains colored visualization of the optimal partitions
-	-RESULT.txt			--Contains logic expression,bits to be filled,connections for each LUT
+	-RESULT.txt         --Contains logic expression,bits to be filled,connections for each LUT
 
 
 
